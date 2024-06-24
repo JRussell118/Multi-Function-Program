@@ -1,3 +1,7 @@
+# Jaden Russell
+# 11/2/2022
+# SDEV 300
+
 """This program creates and presents the user with a
 menu of multiple functions, and performs the desired function upon the user's input"""
 import string
