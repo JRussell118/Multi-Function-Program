@@ -86,10 +86,12 @@ def vol_calc():
 def main():
     """Defines the code of the program in main"""
     print("Welcome to function variety program!\nWhich function would you like to perform?")
-    print("1. Generate a secure password\n2. Calculate and formulate a percentage")
+    print("1. Generate a secure password)
+    print("2. Calculate and formulate a percentage")
     print("3. Find the number of days from today to July 4, 2025")
     print("4. Calculate the leg of a triangle")
-    print("5. Calculate the volume of a right circular cylinder\n6. Exit the program")
+    print("5. Calculate the volume of a right circular cylinder")
+    print("6. Exit the program\n")
     choice = 0
 
     while choice > 6 or choice < 1:
